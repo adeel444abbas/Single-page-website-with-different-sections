@@ -1,0 +1,276 @@
+/* @media screen and (max-width:500px) {
+
+    header {
+        height: 120px;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    header nav {
+        flex-direction: column;
+    }
+
+    nav ul {
+        padding: 16px 45px;
+    }
+
+    .sign-up {
+        width: 20vw;
+    }
+
+    .home {
+        padding: 100px 0px;
+        height: 60vh;
+
+    }
+
+    .text {
+        padding: 35px 15px;
+    }
+
+    .heading {
+        font-size: 30px;
+        padding-bottom: 5px;
+    }
+
+    .s-bar {
+        width: 35px;
+    }
+
+    .about .box {
+        padding: 10px 10px;
+        margin: 10px 10px;
+        width: 250px;
+        height: 80px;
+        box-shadow: 2px 2px 15px 5px darkslategray;
+    }
+
+    .about img {
+        width: 150px;
+        left: 1px;
+    }
+
+    .text2 {
+        padding: 35px 15px;
+    }
+
+    .heading2 {
+        font-size: 30px;
+        padding-bottom: 5px;
+    }
+
+    .s-bar2 {
+        width: 35px;
+    }
+
+    .boss {
+        height: 80vh;
+    }
+
+    .text3 {
+        padding: 35px 45px;
+        text-align: center;
+    }
+
+    .heading3 {
+        font-size: 30px;
+        padding-bottom: 5px;
+    }
+
+    .s-bar3 {
+        width: 50px;
+        margin: 0px auto;
+    }
+
+    .quality {
+        padding: 44px 44px;
+    }
+
+    .quality img {
+        width: 200px;
+    }
+
+    .contact {
+        height: 50vh;
+    }
+
+    .headingg {
+        margin: 0px 160px;
+        font-size: 30px;
+    }
+
+    .baar {
+        margin: 10px 195px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    header nav ul {
+        padding: 12px 8px;
+    }
+
+    .home {
+        padding: 100px 0px;
+        height: 40vh;
+
+    }
+
+    .text .heading {
+        font-size: 25px;
+    }
+
+    .about {
+        gap: 8px;
+    }
+
+    .heading2 {
+        font-size: 25px;
+    }
+
+    .heading3 {
+        font-size: 25px;
+    }
+
+    .quality {
+        padding: 44px 25px;
+    }
+
+    .quality img {
+        width: 150px;
+    }
+
+    .headingg {
+        margin: 0px 100px;
+        font-size: 25px;
+    }
+
+    .baar {
+        margin: 10px 125px;
+    }
+}
+
+@media screen and (max-width: 815px) {
+    .sign-up {
+        width: 80px;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+    nav ul {
+        padding: 16px 5px;
+    }
+
+}
+
+@media screen and (max-width: 390px) {
+    nav ul {
+        padding: 16px 10px;
+    }
+
+}
+
+@media screen and (max-width: 401px) {
+    nav ul {
+        padding: 16px 20px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    nav ul {
+        padding: 16px 8px;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+    .about .box {
+        padding: 10px 10px;
+        margin: 10px 10px;
+        width: 250px;
+        height: 120px;
+        box-shadow: 2px 2px 15px 5px darkslategray;
+    }
+
+    .about img {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .about .box {
+        padding: 10px 10px;
+        margin: 10px 10px;
+        width: 250px;
+        height: 120px;
+        box-shadow: 2px 2px 15px 5px darkslategray;
+    }
+
+    .about img {
+        width: 200px;
+        left: 2px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .box2 {
+        width: 80vw;
+    }
+
+    .box2 h1 {
+        font-size: large;
+    }
+
+    .box2 .name {
+        width: 25vw;
+    }
+
+    .box2 .password {
+        width: 25vw;
+    }
+
+    .box2 .Login {
+        width: 20vw;
+    }
+
+    .box2 .name:hover {
+        width: 30vw;
+        border-color: green;
+    }
+
+    .box2 .password:hover {
+        width: 30vw;
+        border-color: green;
+    }
+
+}
+
+@media screen and (max-width:510px) {
+    .box2 {
+        width: 80vw;
+    }
+
+    .box2 .name {
+        width: 20vw;
+    }
+
+    .box2 .password {
+        width: 20vw;
+    }
+
+    .box2 .Login {
+        width: 15vw;
+    }
+
+    .box2 .name:hover {
+        width: 30vw;
+        border-color: green;
+    }
+
+    .box2 .password:hover {
+        width: 30vw;
+        border-color: green;
+    }
+} */

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+.sign-up{
+    background-color: floralwhite;
+    font-family: 'Ubuntu', sans-serif;
+    color: red;
+    text-decoration: none;
+    display: inline-block;
+    width: 7vw;
+    height: 30px;
+    text-align: center;
+    line-height: 28px;
+    border-radius: 12px;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
